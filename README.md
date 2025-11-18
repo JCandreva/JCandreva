@@ -6,5 +6,5 @@
 
 <br />
 
-[![Sxigames's github stats](https://github-readme-stats.vercel.app/api?username=Sxigames&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![JCandreva's github stats](https://github-readme-stats.vercel.app/api?username=JCandreva&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
